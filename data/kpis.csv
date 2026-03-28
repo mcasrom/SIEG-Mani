@@ -1,0 +1,7 @@
+fecha,medio,pivot_score,sync_index,sentiment_bias,keyword_inj,num_articulos,alerta_campana
+2026-03-28,El País,0.0087,0.0491,"{""EEUU"": -0.1113, ""ISRAEL"": -0.0987, ""RUSIA"": -0.1324}","{""terrorista"": 1, ""terrorist"": 1, ""existential"": 1}",81,0
+2026-03-28,El Mundo,0.0124,0.0491,"{""ISRAEL"": 0.0}",{},8,0
+2026-03-28,BBC World,0.0203,0.0491,"{""EEUU"": -0.8126, ""RUSIA"": -0.2732}",{},10,0
+2026-03-28,NYT World,0.017,0.0491,"{""EEUU"": -0.6712, ""RUSIA"": -0.101, ""ISRAEL"": -0.8423}",{},11,0
+2026-03-28,Fox News,0.0515,0.0491,{},{},1,0
+2026-03-28,France24 ES,0.019,0.0491,"{""EEUU"": -0.1865, ""ISRAEL"": -0.5574, ""CHINA"": 0.0}",{},19,0
