@@ -252,7 +252,7 @@ with tab1:
         fig_sync.add_trace(go.Scatter(
             x=sync_ts["fecha"], y=sync_ts["sync_index"],
             mode="lines+markers", line=dict(color=ACCENT, width=2),
-            fill="tozeroy", fillcolor=ACCENT + "18",
+            fill="tozeroy", fillcolor="rgba(0,255,157,0.09)",
             name="Sync Index",
         ))
         fig_sync.add_hline(y=0.65, line_dash="dash", line_color=RED,
@@ -446,7 +446,7 @@ with tab5:
             fig_al = go.Figure(go.Bar(
                 x=alert_ts["fecha"],
                 y=alert_ts["alerta_campana"],
-                marker_color=[RED if v else ACCENT + "44" for v in alert_ts["alerta_campana"]],
+                marker_color=[RED if v else "rgba(0,255,157,0.27)" for v in alert_ts["alerta_campana"]],
             ))
             fig_al.update_layout(**PLOT_LAYOUT, height=180,
                                  title="Días con alerta activa",
