@@ -1,10 +1,10 @@
 fecha,medio,pivot_score,sync_index,sentiment_bias,keyword_inj,num_articulos,alerta_campana
-2026-03-28,El País,0.0094,0.1112,"{""EEUU"": -0.0785, ""ISRAEL"": -0.0872, ""RUSIA"": -0.1324, ""IRAN"": -0.2001}","{""guerra"": 10, ""misil"": 7, ""ataque"": 7, ""urge"": 4, ""frente"": 4}",111,0
-2026-03-28,El Mundo,0.0303,0.1112,"{""ISRAEL"": -0.1645, ""EEUU"": 0.0, ""IRAN"": -0.1053}","{""guerra"": 5, ""ataque"": 3, ""frente"": 2, ""bombardeo"": 1, ""terrorista"": 1}",27,0
-2026-03-28,BBC World,0.0173,0.1112,"{""EEUU"": -0.4746, ""RUSIA"": -0.2732, ""ISRAEL"": -0.8668, ""IRAN"": -0.8462}",{},24,0
-2026-03-28,NYT World,0.0148,0.1112,"{""EEUU"": -0.4793, ""RUSIA"": -0.101, ""ISRAEL"": -0.865, ""IRAN"": -0.8267, ""UCRANIA"": -0.5267}","{""urge"": 1}",22,0
-2026-03-28,Fox News,0.0361,0.1112,"{""ISRAEL"": -0.4697, ""IRAN"": -0.4697}",{},4,0
-2026-03-28,France24 ES,0.0208,0.1112,"{""EEUU"": -0.168, ""ISRAEL"": -0.1858, ""CHINA"": 0.0, ""RUSIA"": 0.0, ""IRAN"": -0.125, ""UCRANIA"": 0.0}","{""guerra"": 9, ""ataque"": 9, ""condena"": 4, ""frente"": 3, ""misil"": 3}",35,0
-2026-03-28,El Diario,0.0228,0.1112,"{""EEUU"": -0.0054, ""ISRAEL"": 0.0303, ""IRAN"": 0.0057, ""OTAN"": -0.0782, ""CHINA"": -0.1087, ""UCRANIA"": 0.34, ""RUSIA"": -0.5574}","{""guerra"": 3, ""misil"": 2, ""ataque"": 2, ""frente"": 2, ""misiles"": 1}",31,0
-2026-03-28,The Guardian,0.0168,0.1112,"{""EEUU"": -0.5292, ""ISRAEL"": -0.9562, ""IRAN"": -0.77}","{""condemnation"": 1, ""ceasefire"": 1, ""urge"": 1}",35,0
-2026-03-28,Al Jazeera,0.0,0.1112,"{""RUSIA"": -0.2746, ""UCRANIA"": -0.2209, ""ISRAEL"": -0.6534, ""IRAN"": -0.8527, ""EEUU"": -0.3458}",{},33,0
+2026-03-28,El País,0.0291,0.028,"{""EEUU"": 0.0}",{},4,0
+2026-03-28,El Mundo,0.044,0.028,{},{},2,0
+2026-03-28,El Diario,0.0342,0.028,"{""EEUU"": 0.0142, ""ISRAEL"": 0.5859, ""IRAN"": 0.0142}","{""guerra"": 1, ""misil"": 1, ""misiles"": 1, ""ataque"": 1}",2,0
+2026-03-28,BBC World,0.0439,0.028,"{""OTAN"": 0.7964}",{},2,0
+2026-03-28,The Guardian,0.0255,0.028,"{""EEUU"": -0.7212}","{""urge"": 1}",5,0
+2026-03-28,NYT World,0.0564,0.028,"{""ISRAEL"": -0.8779, ""IRAN"": -0.8779}",{},1,0
+2026-03-28,Fox News,0.0625,0.028,"{""UCRANIA"": 0.34}",{},1,0
+2026-03-28,France24 ES,0.0368,0.028,"{""ISRAEL"": 0.0, ""IRAN"": 0.0}","{""guerra"": 1, ""misil"": 1, ""misiles"": 1, ""ataque"": 1}",2,0
+2026-03-28,Al Jazeera,0.0,0.028,"{""ISRAEL"": -0.4392, ""IRAN"": -0.3893, ""EEUU"": 0.0516, ""UCRANIA"": -0.5423}",{},5,0
