@@ -9,6 +9,10 @@ fecha,medio,pivot_score,sync_index,sentiment_bias,keyword_inj,num_articulos,aler
 2026-03-28,France24 ES,0.0368,0.028,"{""ISRAEL"": 0.0, ""IRAN"": 0.0}","{""guerra"": 1, ""misil"": 1, ""misiles"": 1, ""ataque"": 1}",2,0
 2026-03-28,Al Jazeera,0.0,0.028,"{""ISRAEL"": -0.4392, ""IRAN"": -0.3893, ""EEUU"": 0.0516, ""UCRANIA"": -0.5423}",{},5,0
 2026-03-29,BBC World,0.0243,0.0057,"{""EEUU"": -0.8296, ""IRAN"": -0.8296}",{},5,0
-2026-03-29,The Guardian,0.0294,0.0057,{},{},1,0
-2026-03-29,France24 ES,0.0233,0.0057,{},"{""terrorista"": 1}",2,0
-2026-03-29,Al Jazeera,0.0407,0.0057,"{""ISRAEL"": -0.9451, ""IRAN"": -0.9451}",{},1,0
+2026-03-29,El País,0.0082,0.0323,"{""EEUU"": -0.0315, ""ISRAEL"": 0.0147, ""IRAN"": -0.0504, ""CHINA"": 0.0, ""RUSIA"": 0.0}","{""guerra"": 8, ""ataque"": 1, ""frente"": 1, ""expertos advierten"": 1, ""insta a"": 1}",66,0
+2026-03-29,El Mundo,0.0344,0.0323,"{""EEUU"": 0.0, ""RUSIA"": 0.0}",{},6,0
+2026-03-29,El Diario,0.0475,0.0323,"{""EEUU"": 0.0}",{},1,0
+2026-03-29,The Guardian,0.0251,0.0323,{},{},3,0
+2026-03-29,NYT World,0.0274,0.0323,"{""IRAN"": -0.8633}",{},3,0
+2026-03-29,France24 ES,0.0241,0.0323,"{""ISRAEL"": 0.0936, ""IRAN"": 0.0936}","{""guerra"": 1, ""misil"": 1, ""misiles"": 1}",2,0
+2026-03-29,Al Jazeera,0.0466,0.0323,"{""ISRAEL"": -0.9348, ""IRAN"": -0.9348}",{},1,0
