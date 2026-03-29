@@ -261,7 +261,7 @@ with tab1:
                       annotation_text="umbral 0.65",annotation_font_color=RED,annotation_font_size=10)
         fig.add_hrect(y0=0.65,y1=1,fillcolor="rgba(255,78,106,0.05)",line_width=0)
         dark(fig,300,yaxis=dict(range=[0,1],gridcolor=GRID,tickformat=".3f"))
-        st.plotly_chart(fig,use_container_width=True)
+        st.plotly_chart(fig,width="stretch")
     with col_b:
         st.markdown("#### 📊 Pivot Score por Medio")
         fig2 = go.Figure()
@@ -273,13 +273,13 @@ with tab1:
                 hovertemplate=f"<b>{m}</b><br>%{{x|%d/%m}}<br>Pivot: %{{y:.4f}}<extra></extra>"))
         dark(fig2,300,yaxis=dict(range=[0,1],gridcolor=GRID,tickformat=".3f"),
              legend=dict(orientation="h",y=-0.35,font=dict(size=9),bgcolor="rgba(0,0,0,0)"))
-        st.plotly_chart(fig2,use_container_width=True)
+        st.plotly_chart(fig2,width="stretch")
     # Tabla
     last_kpis = kpis_df.sort_values("fecha").groupby("medio").last().reset_index()
     disp = last_kpis[["medio","fecha","pivot_score","sync_index","num_articulos","alerta_campana"]].copy()
     disp.columns = ["Medio","Fecha","Pivot","Sync","Arts","⚠"]
     disp["⚠"] = disp["⚠"].map({0:"✓ OK",1:"⚠ ALERTA"})
-    st.dataframe(disp,use_container_width=True,hide_index=True)
+    st.dataframe(disp,width="stretch",hide_index=True)
 
 # ═══ TAB 2: SENTIMENT ═════════════════════════════════════════════════════════
 with tab2:
@@ -301,7 +301,7 @@ with tab2:
                 hovertemplate="<b>%{y}</b>: %{x:+.4f}<extra></extra>"))
             dark(fig3,320,xaxis=dict(range=[-1,1],gridcolor=GRID,zeroline=True,
                  zerolinecolor="#334455",zerolinewidth=1.5))
-            st.plotly_chart(fig3,use_container_width=True)
+            st.plotly_chart(fig3,width="stretch")
         with col2:
             st.markdown("#### 📈 Evolución temporal")
             sel = st.selectbox("Actor",sorted(sdf["actor"].unique()))
@@ -312,14 +312,14 @@ with tab2:
                 hovertemplate="%{x|%d/%m}: %{y:+.4f}<extra></extra>"))
             fig4.add_hline(y=0,line_dash="dot",line_color="#334455")
             dark(fig4,320,yaxis=dict(range=[-1,1],gridcolor=GRID))
-            st.plotly_chart(fig4,use_container_width=True)
+            st.plotly_chart(fig4,width="stretch")
         st.markdown("#### 🗺 Mapa de calor Medio × Actor")
         ph = sdf.groupby(["medio","actor"])["score"].mean().unstack(fill_value=0)
         fig5 = px.imshow(ph,color_continuous_scale=[[0,RED],[0.5,"#0f1824"],[1,ACCENT]],
                          zmin=-1,zmax=1,aspect="auto",text_auto=".2f")
         fig5.update_traces(textfont=dict(size=10,color="white"))
         dark(fig5,400)
-        st.plotly_chart(fig5,use_container_width=True)
+        st.plotly_chart(fig5,width="stretch")
     else:
         st.info("Sin datos de sentiment aún.")
 
@@ -339,19 +339,19 @@ with tab3:
                 marker=dict(color=top["freq"],colorscale=[[0,GRID],[1,YELLOW]]),
                 hovertemplate="<b>%{y}</b>: %{x}<extra></extra>"))
             dark(fig6,420,title="Top keywords acumuladas")
-            st.plotly_chart(fig6,use_container_width=True)
+            st.plotly_chart(fig6,width="stretch")
         with col2:
             km = kdf.groupby(["medio","keyword"])["freq"].sum().reset_index()
             fig7 = px.bar(km,x="medio",y="freq",color="keyword",barmode="stack",
                           color_discrete_sequence=px.colors.qualitative.Dark24)
             dark(fig7,420,title="Por medio",xaxis=dict(tickangle=-35))
-            st.plotly_chart(fig7,use_container_width=True)
+            st.plotly_chart(fig7,width="stretch")
         sel_kw = st.selectbox("Evolución de keyword",sorted(kdf["keyword"].unique()))
         kts = kdf[kdf["keyword"]==sel_kw].groupby("fecha")["freq"].sum().reset_index()
         fig8 = go.Figure(go.Bar(x=kts["fecha"],y=kts["freq"],marker_color=YELLOW,
                                 hovertemplate="%{x|%d/%m}: %{y}<extra></extra>"))
         dark(fig8,200,title=f'Frecuencia diaria · "{sel_kw}"')
-        st.plotly_chart(fig8,use_container_width=True)
+        st.plotly_chart(fig8,width="stretch")
     else:
         st.info("Sin keywords detectadas.")
 
@@ -377,9 +377,9 @@ with tab4:
             fig9.add_annotation(text=f"{len(filt)}",x=0.5,y=0.5,showarrow=False,
                 font=dict(size=18,color="#fff",family="Orbitron"))
             dark(fig9,210,showlegend=True,legend=dict(orientation="h",y=-0.2,font=dict(size=9)))
-            st.plotly_chart(fig9,use_container_width=True)
+            st.plotly_chart(fig9,width="stretch")
         show=[c for c in ["publicado","medio","linea","titulo","url"] if c in filt.columns]
-        st.dataframe(filt[show].head(300),use_container_width=True,hide_index=True,
+        st.dataframe(filt[show].head(300),width="stretch",hide_index=True,
             column_config={
                 "url":st.column_config.LinkColumn("🔗"),
                 "publicado":st.column_config.DatetimeColumn("📅",format="DD/MM HH:mm"),
@@ -411,9 +411,9 @@ with tab5:
                 hovertemplate="%{x|%d/%m}: %{y}<extra></extra>"))
             dark(fig10,200,title="Días con Sync ≥ 0.65",
                  yaxis=dict(tickvals=[0,1],ticktext=["✓ OK","⚠ ALERTA"],gridcolor=GRID))
-            st.plotly_chart(fig10,use_container_width=True)
+            st.plotly_chart(fig10,width="stretch")
     if not camps_df.empty:
-        st.dataframe(camps_df,use_container_width=True,hide_index=True)
+        st.dataframe(camps_df,width="stretch",hide_index=True)
     else:
         st.success("✓ Sin campañas en el histórico.")
 
