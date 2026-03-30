@@ -1,8 +1,8 @@
 {
-  "scraper_run": "2026-03-30T19:10:27.177082+00:00",
+  "scraper_run": "2026-03-30T22:10:39.243476+00:00",
   "scraper_date": "2026-03-30",
-  "scraper_time": "19:10 UTC",
-  "articulos_72h": 1728,
-  "nuevos_ciclo": 0,
+  "scraper_time": "22:10 UTC",
+  "articulos_72h": 1978,
+  "nuevos_ciclo": 255,
   "fuentes": 16
 }
