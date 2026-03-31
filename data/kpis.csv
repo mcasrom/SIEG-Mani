@@ -28,3 +28,9 @@ fecha,medio,pivot_score,sync_index,sentiment_bias,keyword_inj,num_articulos,aler
 2026-03-30,Fox News,0.0548,0.0825,{},{},1,0
 2026-03-30,France24 ES,0.0142,0.0825,"{""ISRAEL"": -0.1204, ""EEUU"": -0.2407, ""IRAN"": -0.4322, ""OTAN"": 0.2009}","{""condena"": 3, ""guerra"": 3, ""urge"": 1, ""misil"": 1, ""misiles"": 1}",15,0
 2026-03-30,Al Jazeera,0.0163,0.0825,"{""ISRAEL"": -0.5765, ""IRAN"": -0.6572, ""OTAN"": -0.7845, ""RUSIA"": 0.0, ""EEUU"": -0.4375}","{""urge"": 2, ""invasion"": 1}",25,0
+2026-03-31,El País,0.0445,0.0428,{},{},1,0
+2026-03-31,El Mundo,0.0321,0.0428,"{""CHINA"": 0.0, ""RUSIA"": 0.0, ""EEUU"": 0.0}","{""condena"": 1}",6,0
+2026-03-31,BBC World,0.0575,0.0428,{},{},1,0
+2026-03-31,The Guardian,0.0184,0.0428,"{""EEUU"": -0.9583, ""ISRAEL"": -0.9583, ""IRAN"": -0.9583}","{""ceasefire"": 1}",4,0
+2026-03-31,NYT World,0.0247,0.0428,"{""EEUU"": -0.9538, ""IRAN"": -0.8271}",{},3,0
+2026-03-31,Al Jazeera,0.0279,0.0428,"{""IRAN"": -0.8568, ""ISRAEL"": -0.9062}",{},3,0
