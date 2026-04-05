@@ -78,3 +78,9 @@ fecha,medio,pivot_score,sync_index,sentiment_bias,keyword_inj,num_articulos,aler
 2026-04-04,NYT World,0.0306,0.0376,"{""EEUU"": -0.9209, ""ISRAEL"": -0.872, ""IRAN"": -0.872}","{""ultimatum"": 1}",3,0
 2026-04-04,France24 ES,0.0163,0.0376,"{""ISRAEL"": 0.1211, ""EEUU"": -0.0987, ""IRAN"": 0.1468}","{""guerra"": 3, ""misil"": 1, ""misiles"": 1, ""ataque"": 1, ""combate"": 1}",6,0
 2026-04-04,Al Jazeera,0.0201,0.0376,"{""IRAN"": -0.5981, ""EEUU"": -0.5713, ""ISRAEL"": -0.6605}","{""urge"": 1}",13,0
+2026-04-05,El País,0.0354,0.0564,"{""EEUU"": 0.0, ""ISRAEL"": 0.0, ""IRAN"": 0.0}","{""guerra"": 1, ""ataque"": 1}",1,0
+2026-04-05,El Mundo,0.0373,0.0564,{},"{""guerra"": 1, ""misil"": 1, ""misiles"": 1}",3,0
+2026-04-05,The Guardian,0.0291,0.0564,"{""EEUU"": -0.9657, ""ISRAEL"": -0.9657, ""IRAN"": -0.9657}",{},1,0
+2026-04-05,NYT World,0.0304,0.0564,"{""EEUU"": -0.765, ""ISRAEL"": -0.7807, ""IRAN"": -0.7807}","{""ultimatum"": 1}",2,0
+2026-04-05,France24 ES,0.0351,0.0564,{},"{""rehenes"": 1, ""atentado"": 1}",1,0
+2026-04-05,Al Jazeera,0.0435,0.0564,"{""EEUU"": -0.9509, ""ISRAEL"": -0.9509, ""IRAN"": -0.9509}","{""ultimatum"": 1}",1,0
