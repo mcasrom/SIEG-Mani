@@ -108,13 +108,13 @@ fecha,medio,pivot_score,sync_index,sentiment_bias,keyword_inj,num_articulos,aler
 2026-04-07,NYT World,0.0192,0.0671,"{""EEUU"": -0.4067, ""IRAN"": -0.5901, ""RUSIA"": 0.0258, ""CHINA"": 0.0258, ""ISRAEL"": -0.3774, ""OTAN"": -0.3707}","{""veto"": 1}",11,0
 2026-04-07,France24 ES,0.0241,0.0671,"{""IRAN"": 0.3062, ""EEUU"": 0.0275}","{""aranceles"": 1}",3,0
 2026-04-07,Al Jazeera,0.0154,0.0671,"{""IRAN"": -0.535, ""EEUU"": -0.4492, ""ISRAEL"": -0.6126, ""RUSIA"": -0.4182, ""CHINA"": 0.0714, ""UCRANIA"": -0.4767}","{""ultimatum"": 1, ""urge"": 1, ""veto"": 1}",24,0
-2026-04-08,Fox News,0.0552,0.0734,"{""EEUU"": -0.34, ""ISRAEL"": -0.34, ""IRAN"": -0.34}","{""ceasefire"": 1}",1,0
-2026-04-08,El País,0.012,0.0854,"{""EEUU"": 0.049, ""ISRAEL"": 0.0172, ""IRAN"": 0.0103, ""OTAN"": 0.0}","{""alto el fuego"": 5, ""guerra"": 3, ""ataque"": 2, ""bombardeo"": 1, ""tregua"": 1}",21,0
-2026-04-08,El Mundo,0.035,0.0854,"{""IRAN"": -0.5574, ""EEUU"": 0.0516, ""ISRAEL"": 0.0516, ""RUSIA"": 0.0, ""UCRANIA"": 0.0}","{""guerra"": 2, ""tregua"": 1, ""bombardeo"": 1, ""alto el fuego"": 1, ""urge"": 1}",7,0
-2026-04-08,El Diario,0.0256,0.0854,"{""EEUU"": 0.1261, ""ISRAEL"": 0.2195, ""IRAN"": 0.2195, ""OTAN"": 0.0592}","{""ofensiva"": 1, ""ataque"": 1, ""tregua"": 1, ""oleada"": 1, ""alianza"": 1}",9,0
-2026-04-08,La Vanguardia,0.0083,0.0854,"{""EEUU"": -0.1065, ""IRAN"": 0.0117, ""ISRAEL"": 0.1133, ""UE"": 0.0, ""CHINA"": 0.0}","{""alto el fuego"": 6, ""tregua"": 2, ""guerra"": 2, ""bombardeo"": 2, ""ataque"": 1}",69,0
-2026-04-08,BBC World,0.0414,0.0854,"{""IRAN"": -0.5859}","{""ceasefire"": 1}",2,0
-2026-04-08,The Guardian,0.0138,0.0854,"{""EEUU"": -0.5694, ""ISRAEL"": -0.6598, ""IRAN"": -0.6214, ""UCRANIA"": 0.0772, ""OTAN"": -0.7369}","{""ceasefire"": 6}",16,0
-2026-04-08,NYT World,0.0221,0.0854,"{""EEUU"": -0.6627, ""ISRAEL"": -0.9552, ""IRAN"": -0.5359, ""CHINA"": -0.0516}",{},7,0
-2026-04-08,France24 ES,0.014,0.0854,"{""IRAN"": -0.0731, ""EEUU"": -0.2043, ""ISRAEL"": -0.1905}","{""tregua"": 3, ""alto el fuego"": 3, ""ataque"": 3, ""ofensiva"": 2, ""bombardeo"": 2}",13,0
-2026-04-08,Al Jazeera,0.0173,0.0854,"{""EEUU"": 0.0726, ""ISRAEL"": -0.3465, ""IRAN"": -0.1047, ""RUSIA"": 0.4939}","{""ceasefire"": 4}",13,0
+2026-04-08,El País,0.0166,0.0649,"{""EEUU"": 0.0, ""ISRAEL"": 0.0}","{""exige"": 1}",12,0
+2026-04-08,El Mundo,0.0356,0.0649,"{""OTAN"": -0.296, ""EEUU"": -0.2893, ""IRAN"": -0.296, ""ISRAEL"": -0.5719}","{""alto el fuego"": 2, ""ataque"": 1, ""guerra"": 1, ""bombardeo"": 1}",11,0
+2026-04-08,El Diario,0.0271,0.0649,"{""EEUU"": -0.1584, ""ISRAEL"": -0.2375, ""IRAN"": -0.045, ""OTAN"": 0.0516, ""UCRANIA"": 0.34}","{""ofensiva"": 1, ""alto el fuego"": 1, ""aranceles"": 1, ""alianza"": 1}",5,0
+2026-04-08,La Vanguardia,0.0237,0.0649,"{""RUSIA"": 0.0}",{},6,0
+2026-04-08,BBC World,0.0365,0.0649,"{""ISRAEL"": -0.93, ""IRAN"": -0.93}","{""ceasefire"": 1}",3,0
+2026-04-08,The Guardian,0.0156,0.0649,"{""ISRAEL"": -0.4379, ""IRAN"": -0.2771, ""EEUU"": -0.1805}","{""ceasefire"": 5}",11,0
+2026-04-08,NYT World,0.0245,0.0649,"{""EEUU"": -0.138, ""IRAN"": -0.6402, ""ISRAEL"": -0.91}","{""urge"": 1, ""ceasefire"": 1}",7,0
+2026-04-08,Fox News,0.0417,0.0649,"{""ISRAEL"": -0.9246, ""IRAN"": -0.8967, ""OTAN"": -0.8689}","{""ceasefire"": 1}",2,0
+2026-04-08,France24 ES,0.0158,0.0649,"{""EEUU"": -0.0497, ""ISRAEL"": -0.4643, ""IRAN"": -0.1962, ""CHINA"": 0.1877, ""OTAN"": 0.17, ""RUSIA"": 0.34}","{""guerra"": 2, ""ataque"": 2, ""alto el fuego"": 2, ""alianza"": 2, ""tregua"": 1}",9,0
+2026-04-08,Al Jazeera,0.0177,0.0649,"{""IRAN"": -0.1703, ""EEUU"": -0.485, ""ISRAEL"": -0.5475}","{""ceasefire"": 6, ""urge"": 1}",15,0
