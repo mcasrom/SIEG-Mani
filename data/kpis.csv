@@ -119,8 +119,10 @@ fecha,medio,pivot_score,sync_index,sentiment_bias,keyword_inj,num_articulos,aler
 2026-04-08,France24 ES,0.0158,0.0649,"{""EEUU"": -0.0497, ""ISRAEL"": -0.4643, ""IRAN"": -0.1962, ""CHINA"": 0.1877, ""OTAN"": 0.17, ""RUSIA"": 0.34}","{""guerra"": 2, ""ataque"": 2, ""alto el fuego"": 2, ""alianza"": 2, ""tregua"": 1}",9,0
 2026-04-08,Al Jazeera,0.0177,0.0649,"{""IRAN"": -0.1703, ""EEUU"": -0.485, ""ISRAEL"": -0.5475}","{""ceasefire"": 6, ""urge"": 1}",15,0
 2026-04-09,El Mundo,0.0321,0.0531,"{""EEUU"": 0.0}","{""guerra"": 1}",6,0
-2026-04-09,BBC World,0.0537,0.0531,{},{},1,0
-2026-04-09,The Guardian,0.016,0.0531,"{""ISRAEL"": 0.0046, ""IRAN"": -0.0164, ""EEUU"": -0.1397, ""OTAN"": -0.9584}","{""ceasefire"": 4}",6,0
-2026-04-09,NYT World,0.0297,0.0531,"{""EEUU"": -0.5719, ""IRAN"": -0.381}",{},2,0
-2026-04-09,France24 ES,0.0167,0.0531,"{""RUSIA"": 0.4137, ""EEUU"": 0.3769, ""ISRAEL"": 0.34, ""IRAN"": 0.4137}","{""frente"": 1, ""ofensiva"": 1, ""ataque"": 1, ""bombardeo"": 1, ""tregua"": 1}",5,0
-2026-04-09,Al Jazeera,0.0372,0.0531,"{""IRAN"": -0.449, ""EEUU"": -0.8979, ""ISRAEL"": -0.8979}","{""ceasefire"": 2}",2,0
+2026-04-09,El País,0.0076,0.0502,"{""EEUU"": 0.0063, ""IRAN"": -0.0311, ""ISRAEL"": 0.0, ""OTAN"": 0.0, ""UCRANIA"": 0.0, ""RUSIA"": 0.0}","{""guerra"": 3, ""exige"": 2, ""alto el fuego"": 2, ""tregua"": 2, ""acuerdo de paz"": 1}",62,0
+2026-04-09,El Diario,0.0277,0.0502,"{""EEUU"": -0.7184, ""IRAN"": -0.7184}","{""alto el fuego"": 1, ""genocidio"": 1, ""frente"": 1}",4,0
+2026-04-09,BBC World,0.037,0.0502,"{""OTAN"": -0.7351, ""EEUU"": -0.7351, ""IRAN"": -0.7351}",{},3,0
+2026-04-09,The Guardian,0.0153,0.0502,"{""ISRAEL"": -0.419, ""IRAN"": -0.197, ""EEUU"": -0.2121, ""OTAN"": -0.8505}","{""ceasefire"": 5, ""urge"": 1}",9,0
+2026-04-09,NYT World,0.0238,0.0502,"{""IRAN"": -0.0812, ""ISRAEL"": 0.1779, ""EEUU"": 0.0}",{},4,0
+2026-04-09,France24 ES,0.0136,0.0502,"{""OTAN"": 0.0, ""RUSIA"": 0.1379, ""EEUU"": -0.3573, ""ISRAEL"": -0.5955, ""IRAN"": -0.4466}","{""tregua"": 4, ""ataque"": 2, ""alto el fuego"": 1, ""sanciones"": 1, ""urge"": 1}",11,0
+2026-04-09,Al Jazeera,0.0402,0.0502,"{""ISRAEL"": -0.8255}",{},3,0
