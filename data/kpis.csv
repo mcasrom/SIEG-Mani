@@ -130,9 +130,9 @@ fecha,medio,pivot_score,sync_index,sentiment_bias,keyword_inj,num_articulos,aler
 2026-04-09,Al Jazeera,0.0181,0.0511,"{""ISRAEL"": -0.6018, ""EEUU"": -0.377, ""IRAN"": -0.5081}","{""ceasefire"": 2}",16,0
 2026-04-10,BBC World,0.0273,0.0456,"{""EEUU"": -0.5749, ""ISRAEL"": -0.5749, ""IRAN"": -0.5749}",{},4,0
 2026-04-10,France24 ES,0.0252,0.0456,"{""EEUU"": 0.0, ""ISRAEL"": 0.0, ""IRAN"": 0.0}","{""frente"": 1, ""ataque"": 1, ""tregua"": 1, ""alto el fuego"": 1}",2,0
-2026-04-10,El País,0.0111,0.0498,"{""EEUU"": -0.4431, ""ISRAEL"": -0.3595, ""IRAN"": -0.4285}","{""guerra"": 3, ""ataque"": 2, ""negociaciones"": 1, ""rescate"": 1}",17,0
-2026-04-10,El Mundo,0.0347,0.0498,"{""CHINA"": 0.0}",{},4,0
-2026-04-10,El Diario,0.0245,0.0498,"{""OTAN"": 0.5859}","{""guerra"": 1}",5,0
-2026-04-10,The Guardian,0.015,0.0498,"{""ISRAEL"": -0.4582, ""IRAN"": -0.3823, ""EEUU"": -0.9582}","{""ceasefire"": 1, ""urge"": 1}",8,0
-2026-04-10,NYT World,0.0248,0.0498,"{""ISRAEL"": 0.83, ""IRAN"": 0.83, ""CHINA"": -0.0768, ""EEUU"": 0.4588}",{},4,0
-2026-04-10,Al Jazeera,0.023,0.0498,"{""RUSIA"": -0.8519, ""ISRAEL"": -0.8376, ""IRAN"": -0.8381, ""EEUU"": -0.7169}","{""ceasefire"": 3}",6,0
+2026-04-10,El País,0.0124,0.0579,"{""EEUU"": -0.1797, ""ISRAEL"": -0.3595, ""IRAN"": -0.3595, ""RUSIA"": 0.0}","{""guerra"": 1, ""ataque"": 1, ""frente"": 1}",13,0
+2026-04-10,El Mundo,0.0295,0.0579,"{""IRAN"": 0.0}","{""negociaciones"": 1, ""ofensiva"": 1}",12,0
+2026-04-10,El Diario,0.0197,0.0579,"{""EEUU"": 0.2397, ""IRAN"": 0.3994, ""OTAN"": 0.0, ""UE"": 0.0}","{""negociaciones"": 1, ""deuda"": 1, ""censura"": 1, ""guerra"": 1}",20,0
+2026-04-10,The Guardian,0.0124,0.0579,"{""EEUU"": -0.1072, ""IRAN"": -0.1387, ""CHINA"": -0.3182, ""ISRAEL"": -0.3395, ""UCRANIA"": -0.6369, ""RUSIA"": -0.2262}",{},17,0
+2026-04-10,NYT World,0.0191,0.0579,"{""ISRAEL"": -0.7208, ""IRAN"": -0.7208, ""CHINA"": -0.0962, ""RUSIA"": 0.0}",{},8,0
+2026-04-10,Al Jazeera,0.0194,0.0579,"{""EEUU"": -0.296, ""ISRAEL"": -0.5876, ""IRAN"": -0.401, ""RUSIA"": -0.5719, ""UCRANIA"": -0.5719}","{""ceasefire"": 3}",8,0
