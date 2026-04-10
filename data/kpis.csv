@@ -128,3 +128,8 @@ fecha,medio,pivot_score,sync_index,sentiment_bias,keyword_inj,num_articulos,aler
 2026-04-09,Fox News,0.0474,0.0511,"{""ISRAEL"": -0.7964, ""IRAN"": -0.7964, ""RUSIA"": 0.0772}",{},2,0
 2026-04-09,France24 ES,0.0252,0.0511,"{""EEUU"": 0.0, ""ISRAEL"": -0.6289, ""IRAN"": -0.7003}","{""ataque"": 2, ""alto el fuego"": 2, ""negociaciones"": 2, ""bombardeo"": 1, ""embargo"": 1}",4,0
 2026-04-09,Al Jazeera,0.0181,0.0511,"{""ISRAEL"": -0.6018, ""EEUU"": -0.377, ""IRAN"": -0.5081}","{""ceasefire"": 2}",16,0
+2026-04-10,El Mundo,0.0305,0.0474,"{""EEUU"": -0.148}",{},5,0
+2026-04-10,The Guardian,0.0156,0.0474,"{""ISRAEL"": 0.0421, ""IRAN"": 0.0421, ""EEUU"": -0.4474}","{""ceasefire"": 1, ""condemnation"": 1}",5,0
+2026-04-10,NYT World,0.0366,0.0474,"{""ISRAEL"": -0.4767, ""IRAN"": -0.4767}",{},1,0
+2026-04-10,France24 ES,0.0354,0.0474,{},{},1,0
+2026-04-10,Al Jazeera,0.0419,0.0474,"{""ISRAEL"": -0.9136, ""IRAN"": -0.9136}","{""ceasefire"": 1}",1,0
