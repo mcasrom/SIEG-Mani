@@ -158,3 +158,10 @@ fecha,medio,pivot_score,sync_index,sentiment_bias,keyword_inj,num_articulos,aler
 2026-04-12,Fox News,0.0524,0.0746,{},"{""urge"": 1}",2,0
 2026-04-12,France24 ES,0.0145,0.0746,"{""EEUU"": -0.5403, ""CHINA"": 0.0, ""IRAN"": -0.401, ""ISRAEL"": -0.8555, ""UCRANIA"": -0.5574, ""OTAN"": 0.0}","{""embargo"": 2, ""negociaciones"": 2, ""urge"": 1, ""guerra"": 1, ""ataque"": 1}",13,0
 2026-04-12,Al Jazeera,0.021,0.0746,"{""ISRAEL"": -0.436, ""IRAN"": -0.2378, ""EEUU"": -0.4791}","{""ceasefire"": 1}",13,0
+2026-04-13,El Mundo,0.0347,0.0696,{},"{""negociaciones"": 1, ""bulo"": 1, ""rescate"": 1, ""inmigrantes"": 1}",6,0
+2026-04-13,BBC World,0.0306,0.0696,"{""IRAN"": -0.743}",{},3,0
+2026-04-13,The Guardian,0.0201,0.0696,"{""IRAN"": -0.5843, ""EEUU"": -0.9423, ""ISRAEL"": -0.9423}",{},5,0
+2026-04-13,NYT World,0.0378,0.0696,"{""EEUU"": -0.3506, ""IRAN"": -0.3506}",{},1,0
+2026-04-13,Fox News,0.0474,0.0696,"{""IRAN"": -0.7184}",{},1,0
+2026-04-13,France24 ES,0.0284,0.0696,"{""EEUU"": -0.296, ""IRAN"": -0.296}","{""guerra"": 1, ""frente"": 1, ""irregular"": 1}",2,0
+2026-04-13,Al Jazeera,0.037,0.0696,"{""IRAN"": -0.5919}",{},2,0
