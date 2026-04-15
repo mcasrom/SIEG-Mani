@@ -179,6 +179,10 @@ fecha,medio,pivot_score,sync_index,sentiment_bias,keyword_inj,num_articulos,aler
 2026-04-14,France24 ES,0.014,0.0595,"{""EEUU"": 0.0041, ""IRAN"": 0.1953, ""ISRAEL"": 0.0}","{""guerra"": 2, ""ataque"": 2, ""negociaciones"": 2, ""alianza"": 1, ""inaceptable"": 1}",10,0
 2026-04-14,Al Jazeera,0.0175,0.0595,"{""ISRAEL"": -0.4376, ""EEUU"": -0.3633, ""IRAN"": -0.4053}",{},16,0
 2026-04-15,El Mundo,0.0269,0.0584,"{""CHINA"": 0.34, ""UE"": 0.34, ""EEUU"": 0.0, ""IRAN"": 0.0}","{""guerra"": 2, ""ataque"": 2, ""inmigrantes"": 1, ""irregular"": 1, ""aranceles"": 1}",9,0
-2026-04-15,The Guardian,0.0161,0.0584,"{""EEUU"": -0.2435, ""IRAN"": -0.2435, ""ISRAEL"": -0.8271}",{},4,0
-2026-04-15,NYT World,0.0225,0.0584,"{""IRAN"": -0.5265, ""ISRAEL"": -0.4019, ""EEUU"": -0.6353, ""CHINA"": -0.6353}",{},3,0
-2026-04-15,Al Jazeera,0.0291,0.0584,"{""EEUU"": -0.5994, ""IRAN"": -0.5994}",{},2,0
+2026-04-15,El País,0.0076,0.0362,"{""EEUU"": -0.0536, ""CHINA"": -0.296, ""IRAN"": -0.0987}","{""guerra"": 5, ""frente"": 2, ""exige"": 2, ""alianza"": 1, ""terrorista"": 1}",60,0
+2026-04-15,El Diario,0.0242,0.0362,"{""EEUU"": -0.0333, ""ISRAEL"": -0.296, ""CHINA"": 0.0, ""IRAN"": -0.0333, ""OTAN"": 0.0}",{},8,0
+2026-04-15,BBC World,0.0382,0.0362,"{""EEUU"": 0.1779}",{},2,0
+2026-04-15,The Guardian,0.0134,0.0362,"{""EEUU"": -0.0557, ""IRAN"": 0.1851, ""ISRAEL"": -0.765}","{""ceasefire"": 1}",10,0
+2026-04-15,NYT World,0.0475,0.0362,{},{},1,0
+2026-04-15,France24 ES,0.012,0.0362,"{""IRAN"": -0.148, ""EEUU"": 0.0, ""ISRAEL"": 0.0}","{""guerra"": 4, ""negociaciones"": 2, ""deuda"": 1, ""desplazados"": 1, ""sanciones"": 1}",12,0
+2026-04-15,Al Jazeera,0.026,0.0362,"{""ISRAEL"": -0.3396, ""EEUU"": -0.8316, ""IRAN"": -0.8316}",{},5,0
