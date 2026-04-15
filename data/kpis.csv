@@ -178,3 +178,7 @@ fecha,medio,pivot_score,sync_index,sentiment_bias,keyword_inj,num_articulos,aler
 2026-04-14,Fox News,0.0498,0.0595,"{""EEUU"": 0.4404, ""ISRAEL"": 0.4404, ""IRAN"": 0.4404}",{},1,0
 2026-04-14,France24 ES,0.014,0.0595,"{""EEUU"": 0.0041, ""IRAN"": 0.1953, ""ISRAEL"": 0.0}","{""guerra"": 2, ""ataque"": 2, ""negociaciones"": 2, ""alianza"": 1, ""inaceptable"": 1}",10,0
 2026-04-14,Al Jazeera,0.0175,0.0595,"{""ISRAEL"": -0.4376, ""EEUU"": -0.3633, ""IRAN"": -0.4053}",{},16,0
+2026-04-15,El Mundo,0.0269,0.0584,"{""CHINA"": 0.34, ""UE"": 0.34, ""EEUU"": 0.0, ""IRAN"": 0.0}","{""guerra"": 2, ""ataque"": 2, ""inmigrantes"": 1, ""irregular"": 1, ""aranceles"": 1}",9,0
+2026-04-15,The Guardian,0.0161,0.0584,"{""EEUU"": -0.2435, ""IRAN"": -0.2435, ""ISRAEL"": -0.8271}",{},4,0
+2026-04-15,NYT World,0.0225,0.0584,"{""IRAN"": -0.5265, ""ISRAEL"": -0.4019, ""EEUU"": -0.6353, ""CHINA"": -0.6353}",{},3,0
+2026-04-15,Al Jazeera,0.0291,0.0584,"{""EEUU"": -0.5994, ""IRAN"": -0.5994}",{},2,0
