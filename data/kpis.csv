@@ -228,11 +228,13 @@ fecha,medio,pivot_score,sync_index,sentiment_bias,keyword_inj,num_articulos,aler
 2026-04-19,Fox News,0.0501,0.0494,"{""ISRAEL"": -0.8484, ""IRAN"": -0.9186}","{""ceasefire"": 1}",2,0
 2026-04-19,France24 ES,0.0186,0.0494,"{""EEUU"": -0.1753, ""IRAN"": -0.2118, ""OTAN"": 0.5267, ""ISRAEL"": -0.148}","{""negociaciones"": 1, ""ataque"": 1}",8,0
 2026-04-19,Al Jazeera,0.0209,0.0494,"{""EEUU"": -0.418, ""ISRAEL"": -0.3293, ""IRAN"": -0.6302}","{""ceasefire"": 1}",12,0
-2026-04-20,El Mundo,0.0301,0.0208,"{""EEUU"": 0.0}","{""exige"": 1}",11,0
-2026-04-20,El País,0.0254,0.031,{},"{""alianza"": 1}",4,0
-2026-04-20,BBC World,0.0303,0.031,"{""EEUU"": -0.2263, ""ISRAEL"": -0.2263, ""IRAN"": -0.2263}",{},3,0
-2026-04-20,The Guardian,0.0143,0.031,"{""EEUU"": -0.5316, ""IRAN"": -0.3874, ""ISRAEL"": -0.9432}","{""ceasefire"": 1}",9,0
-2026-04-20,NYT World,0.0488,0.031,{},{},1,0
 2026-04-20,Fox News,0.0508,0.031,"{""EEUU"": -0.8591, ""IRAN"": -0.8591}",{},1,0
 2026-04-20,France24 ES,0.0174,0.031,"{""EEUU"": 0.1679, ""IRAN"": -0.25, ""CHINA"": 0.0}","{""guerra"": 1, ""ataque"": 1, ""tregua"": 1, ""alto el fuego"": 1, ""negociaciones"": 1}",5,0
-2026-04-20,Al Jazeera,0.0331,0.031,"{""ISRAEL"": -0.765, ""EEUU"": -0.4404, ""IRAN"": -0.4404}","{""ceasefire"": 1, ""urge"": 1}",3,0
+2026-04-20,El País,0.0082,0.0525,"{""EEUU"": -0.0065, ""ISRAEL"": 0.0, ""IRAN"": 0.0, ""RUSIA"": 0.0}","{""guerra"": 5, ""ataque"": 2, ""inmigrantes"": 2, ""represalia"": 1, ""cumbre"": 1}",69,0
+2026-04-20,El Mundo,0.0367,0.0525,"{""ISRAEL"": 0.0, ""EEUU"": -0.5267, ""UE"": -0.5267}","{""masacre"": 1, ""bloqueado"": 1}",6,0
+2026-04-20,El Diario,0.0232,0.0525,"{""OTAN"": 0.4767, ""IRAN"": 0.34, ""EEUU"": 0.17}",{},9,0
+2026-04-20,La Vanguardia,0.0092,0.0525,"{""EEUU"": -0.0257, ""IRAN"": -0.148, ""RUSIA"": 0.0}","{""guerra"": 5, ""exige"": 2, ""ataque"": 1, ""represalia"": 1, ""masacre"": 1}",67,0
+2026-04-20,BBC World,0.0403,0.0525,{},{},2,0
+2026-04-20,The Guardian,0.0147,0.0525,"{""EEUU"": -0.5194, ""IRAN"": -0.6463}","{""embargo"": 1}",10,0
+2026-04-20,NYT World,0.0299,0.0525,"{""EEUU"": -0.836, ""IRAN"": -0.8919}",{},3,0
+2026-04-20,Al Jazeera,0.0212,0.0525,"{""IRAN"": -0.2014, ""EEUU"": -0.8658}","{""ceasefire"": 1, ""urge"": 1}",8,0
