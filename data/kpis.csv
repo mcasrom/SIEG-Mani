@@ -238,7 +238,12 @@ fecha,medio,pivot_score,sync_index,sentiment_bias,keyword_inj,num_articulos,aler
 2026-04-20,Fox News,0.0553,0.0462,{},{},1,0
 2026-04-20,France24 ES,0.0184,0.0462,"{""EEUU"": 0.0966, ""ISRAEL"": 0.5859, ""IRAN"": 0.0966}","{""guerra"": 1, ""embargo"": 1, ""alto el fuego"": 1, ""negociaciones"": 1, ""sanciones"": 1}",8,0
 2026-04-20,Al Jazeera,0.0219,0.0462,"{""ISRAEL"": -0.4455, ""UCRANIA"": -0.1694, ""RUSIA"": -0.254, ""IRAN"": -0.424, ""EEUU"": -0.128}","{""ceasefire"": 1}",11,0
-2026-04-21,El Mundo,0.0283,0.0138,"{""RUSIA"": -0.5267}","{""exige"": 1}",6,0
-2026-04-21,The Guardian,0.0164,0.0138,"{""EEUU"": -0.8807, ""ISRAEL"": -0.8807, ""IRAN"": -0.8807}",{},4,0
-2026-04-21,France24 ES,0.0276,0.0138,{},{},1,0
-2026-04-21,Al Jazeera,0.0316,0.0138,"{""EEUU"": -0.7418, ""IRAN"": -0.7418}",{},2,0
+2026-04-21,El País,0.0081,0.0601,"{""IRAN"": -0.1739, ""EEUU"": -0.0846, ""ISRAEL"": 0.0258, ""UE"": -0.6249, ""OTAN"": -0.296}","{""guerra"": 4, ""frente"": 2, ""alto el fuego"": 1, ""negociaciones"": 1, ""inmigrantes"": 1}",66,0
+2026-04-21,El Mundo,0.0363,0.0601,"{""EEUU"": 0.0}","{""guerra"": 1}",5,0
+2026-04-21,El Diario,0.0242,0.0601,"{""EEUU"": 0.0881, ""ISRAEL"": 0.0, ""OTAN"": 0.0, ""UE"": 0.0, ""IRAN"": -0.296}","{""aranceles"": 1}",11,0
+2026-04-21,La Vanguardia,0.0159,0.0601,"{""EEUU"": -0.296, ""IRAN"": -0.296, ""RUSIA"": -0.296, ""CHINA"": 0.4215}","{""negociaciones"": 1, ""urge"": 1}",15,0
+2026-04-21,BBC World,0.0304,0.0601,{},{},3,0
+2026-04-21,The Guardian,0.0124,0.0601,"{""EEUU"": -0.6905, ""IRAN"": -0.6498, ""ISRAEL"": -0.9785, ""CHINA"": 0.8979}","{""ceasefire"": 1, ""urge"": 1}",16,0
+2026-04-21,NYT World,0.0239,0.0601,"{""EEUU"": 0.5423, ""IRAN"": 0.5423, ""CHINA"": -0.4927}",{},5,0
+2026-04-21,France24 ES,0.0112,0.0601,"{""ISRAEL"": 0.1366, ""UE"": 0.0, ""IRAN"": -0.1622, ""EEUU"": -0.1172, ""OTAN"": 0.0, ""CHINA"": -0.5574}","{""alto el fuego"": 2, ""urge"": 2, ""negociaciones"": 2, ""guerra"": 1, ""bombardeo"": 1}",16,0
+2026-04-21,Al Jazeera,0.0183,0.0601,"{""ISRAEL"": -0.5552, ""IRAN"": -0.8695, ""RUSIA"": -0.5994, ""EEUU"": -0.1148}",{},13,0
