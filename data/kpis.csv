@@ -250,10 +250,10 @@ fecha,medio,pivot_score,sync_index,sentiment_bias,keyword_inj,num_articulos,aler
 2026-04-21,Al Jazeera,0.0172,0.0494,"{""EEUU"": -0.3777, ""IRAN"": -0.4829, ""ISRAEL"": 0.0254, ""RUSIA"": -0.296}","{""ceasefire"": 1, ""propaganda"": 1}",15,0
 2026-04-22,Fox News,0.0595,0.0184,{},{},1,0
 2026-04-22,France24 ES,0.0115,0.0184,"{""EEUU"": 0.0686, ""IRAN"": -0.3206, ""OTAN"": 0.34, ""ISRAEL"": 0.0}","{""alto el fuego"": 3, ""embargo"": 1, ""migracion"": 1, ""guerra"": 1, ""negociaciones"": 1}",14,0
-2026-04-22,El País,0.0072,0.0344,"{""EEUU"": -0.0338, ""ISRAEL"": 0.0, ""IRAN"": -0.0987, ""RUSIA"": 0.34, ""UE"": 0.0, ""OTAN"": 0.0}","{""guerra"": 6, ""ataque"": 2, ""frente"": 2, ""combate"": 1, ""tregua"": 1}",70,0
-2026-04-22,El Mundo,0.0441,0.0344,{},{},2,0
-2026-04-22,El Diario,0.0274,0.0344,"{""EEUU"": 0.0095, ""ISRAEL"": -0.5574, ""IRAN"": -0.5574}","{""guerra"": 2}",5,0
-2026-04-22,BBC World,0.0577,0.0344,{},{},1,0
-2026-04-22,The Guardian,0.0122,0.0344,"{""CHINA"": -0.4767, ""EEUU"": -0.8236, ""ISRAEL"": -0.743, ""IRAN"": -0.8236}","{""urge"": 2, ""ceasefire"": 1}",13,0
-2026-04-22,NYT World,0.0444,0.0344,"{""EEUU"": -0.8555, ""IRAN"": -0.8555}",{},1,0
-2026-04-22,Al Jazeera,0.0368,0.0344,"{""EEUU"": -0.4019, ""IRAN"": -0.4019}","{""ceasefire"": 1}",3,0
+2026-04-22,El País,0.0103,0.0599,"{""EEUU"": -0.5574, ""ISRAEL"": -0.5171, ""IRAN"": -0.1196, ""UE"": -0.6249}","{""rescate"": 1, ""inmigrantes"": 1, ""guerra"": 1, ""combate"": 1, ""frente"": 1}",23,0
+2026-04-22,El Mundo,0.0305,0.0599,"{""EEUU"": 0.4215, ""IRAN"": 0.5859}","{""inmigrantes"": 1, ""guerra"": 1}",9,0
+2026-04-22,El Diario,0.0217,0.0599,"{""EEUU"": -0.0735, ""CHINA"": 0.0, ""OTAN"": -0.2375, ""IRAN"": 0.0, ""ISRAEL"": 0.0}","{""rescate"": 1, ""frente"": 1}",20,0
+2026-04-22,BBC World,0.0244,0.0599,"{""RUSIA"": -0.0387, ""UCRANIA"": -0.0387, ""EEUU"": 0.1531, ""CHINA"": -0.6486}",{},6,0
+2026-04-22,The Guardian,0.0115,0.0599,"{""RUSIA"": -0.1687, ""UCRANIA"": -0.1687, ""EEUU"": -0.3604, ""ISRAEL"": -0.9531, ""IRAN"": -0.9531}","{""urge"": 2, ""veto"": 1, ""ceasefire"": 1}",17,0
+2026-04-22,NYT World,0.019,0.0599,"{""EEUU"": 0.6597, ""IRAN"": 0.1289, ""RUSIA"": -0.7964, ""UCRANIA"": -0.5113}",{},8,0
+2026-04-22,Al Jazeera,0.0178,0.0599,"{""IRAN"": 0.0629, ""RUSIA"": -0.836, ""UCRANIA"": -0.836, ""ISRAEL"": -0.3683, ""CHINA"": 0.6249, ""EEUU"": 0.0}","{""ceasefire"": 2, ""urge"": 1}",12,0
