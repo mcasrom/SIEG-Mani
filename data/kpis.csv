@@ -257,3 +257,8 @@ fecha,medio,pivot_score,sync_index,sentiment_bias,keyword_inj,num_articulos,aler
 2026-04-22,NYT World,0.0251,0.0428,"{""IRAN"": -0.0087}",{},5,0
 2026-04-22,France24 ES,0.0143,0.0428,"{""OTAN"": -0.25, ""EEUU"": -0.2897, ""ISRAEL"": -0.3839, ""IRAN"": -0.2523}","{""guerra"": 3, ""ataque"": 2, ""represalia"": 1, ""sanciones"": 1, ""alianza"": 1}",8,0
 2026-04-22,Al Jazeera,0.0198,0.0428,"{""ISRAEL"": -0.4501, ""IRAN"": 0.0, ""RUSIA"": 0.0, ""UCRANIA"": 0.0}","{""veto"": 1}",11,0
+2026-04-23,El Mundo,0.0288,0.0512,"{""EEUU"": 0.0516, ""UCRANIA"": -0.023}","{""guerra"": 1, ""censura"": 1}",6,0
+2026-04-23,The Guardian,0.0198,0.0512,"{""EEUU"": -0.8403, ""ISRAEL"": -0.9538, ""IRAN"": -0.8403, ""OTAN"": -0.7269}","{""ceasefire"": 1}",3,0
+2026-04-23,NYT World,0.0308,0.0512,"{""ISRAEL"": -0.743, ""IRAN"": -0.4767}",{},2,0
+2026-04-23,France24 ES,0.032,0.0512,"{""EEUU"": 0.34}",{},1,0
+2026-04-23,Al Jazeera,0.0331,0.0512,"{""IRAN"": -0.4743, ""ISRAEL"": -0.9485}",{},2,0
