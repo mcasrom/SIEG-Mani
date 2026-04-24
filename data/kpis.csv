@@ -268,7 +268,10 @@ fecha,medio,pivot_score,sync_index,sentiment_bias,keyword_inj,num_articulos,aler
 2026-04-23,France24 ES,0.0145,0.0396,"{""CHINA"": 0.34, ""EEUU"": -0.0622, ""IRAN"": -0.542, ""ISRAEL"": 0.0}","{""guerra"": 3, ""negociaciones"": 1, ""ataque"": 1, ""bombardeo"": 1, ""crimen de guerra"": 1}",11,0
 2026-04-23,Al Jazeera,0.0208,0.0396,"{""ISRAEL"": -0.8751, ""RUSIA"": 0.1707, ""UCRANIA"": 0.1707, ""EEUU"": -0.1157, ""IRAN"": -0.1628, ""OTAN"": -0.7579}",{},11,0
 2026-04-24,El Mundo,0.0368,0.0259,"{""ISRAEL"": 0.0, ""IRAN"": 0.0, ""EEUU"": -0.5574}",{},3,0
-2026-04-24,BBC World,0.032,0.0259,{},{},2,0
-2026-04-24,The Guardian,0.0133,0.0259,"{""EEUU"": -0.3805, ""IRAN"": -0.4215}","{""urge"": 1}",7,0
-2026-04-24,NYT World,0.0428,0.0259,"{""RUSIA"": -0.8667, ""CHINA"": -0.8667, ""IRAN"": -0.8667}",{},1,0
-2026-04-24,Al Jazeera,0.041,0.0259,"{""EEUU"": -0.9325, ""ISRAEL"": -0.9325, ""IRAN"": -0.9325}",{},1,0
+2026-04-24,El País,0.0075,0.0358,"{""EEUU"": -0.0746, ""IRAN"": 0.0, ""OTAN"": -0.6249, ""UCRANIA"": 0.0, ""UE"": 0.0}","{""frente"": 4, ""guerra"": 4, ""sanciones"": 1, ""genocidio"": 1, ""masacre"": 1}",68,0
+2026-04-24,El Diario,0.0261,0.0358,"{""EEUU"": -0.296, ""IRAN"": -0.296, ""CHINA"": 0.0}",{},5,0
+2026-04-24,BBC World,0.0574,0.0358,"{""CHINA"": 0.0}",{},1,0
+2026-04-24,The Guardian,0.0186,0.0358,"{""EEUU"": -0.2934, ""IRAN"": -0.0513}","{""urge"": 1}",6,0
+2026-04-24,NYT World,0.0322,0.0358,"{""OTAN"": 0.5267}",{},3,0
+2026-04-24,France24 ES,0.0112,0.0358,"{""EEUU"": -0.0062, ""ISRAEL"": 0.0821, ""IRAN"": -0.0124}","{""guerra"": 3, ""ataque"": 1, ""alto el fuego"": 1, ""sanciones"": 1, ""urge"": 1}",10,0
+2026-04-24,Al Jazeera,0.0492,0.0358,"{""EEUU"": 0.0, ""IRAN"": 0.0}",{},1,0
