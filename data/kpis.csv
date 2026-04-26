@@ -287,9 +287,12 @@ fecha,medio,pivot_score,sync_index,sentiment_bias,keyword_inj,num_articulos,aler
 2026-04-25,Fox News,0.0613,0.0343,"{""EEUU"": -0.8442, ""IRAN"": -0.8442}",{},1,0
 2026-04-25,France24 ES,0.0205,0.0343,"{""EEUU"": -0.0987, ""RUSIA"": 0.0, ""UCRANIA"": 0.0, ""IRAN"": -0.296}","{""ataque"": 4, ""atentado"": 1, ""fuentes oficiales"": 1, ""terrorista"": 1, ""ofensiva"": 1}",6,0
 2026-04-25,Al Jazeera,0.0197,0.0343,"{""OTAN"": -0.7717, ""EEUU"": -0.708, ""IRAN"": -0.6762, ""ISRAEL"": -0.3982}","{""ceasefire"": 1}",12,0
-2026-04-26,El Mundo,0.0459,0.0557,"{""EEUU"": -0.296}","{""atentado"": 1}",1,0
-2026-04-26,El Diario,0.0327,0.0557,"{""EEUU"": 0.34}",{},2,0
-2026-04-26,The Guardian,0.0164,0.0557,"{""EEUU"": -0.4203, ""IRAN"": -0.0122, ""UCRANIA"": -0.3612}","{""ceasefire"": 1}",8,0
-2026-04-26,NYT World,0.0245,0.0557,"{""EEUU"": 0.4019, ""UCRANIA"": -0.0258}",{},5,0
-2026-04-26,France24 ES,0.0166,0.0557,"{""EEUU"": -0.0592, ""IRAN"": -0.148, ""ISRAEL"": 0.0}","{""guerra"": 1, ""frente"": 1, ""negociaciones"": 1}",8,0
-2026-04-26,Al Jazeera,0.0255,0.0557,"{""EEUU"": 0.0268, ""ISRAEL"": -0.7096, ""IRAN"": -0.7096}",{},5,0
+2026-04-26,El País,0.0084,0.0492,"{""EEUU"": -0.1013, ""ISRAEL"": -0.2787, ""UE"": -0.5574, ""OTAN"": -0.6249}","{""bulo"": 3, ""atentado"": 3, ""ataque"": 1, ""condena"": 1, ""tregua"": 1}",69,0
+2026-04-26,El Mundo,0.0554,0.0492,{},{},1,0
+2026-04-26,El Diario,0.0293,0.0492,"{""OTAN"": 0.0, ""EEUU"": -0.0987, ""IRAN"": 0.0, ""UCRANIA"": -0.148}","{""frente"": 1}",5,0
+2026-04-26,La Vanguardia,0.012,0.0492,"{""EEUU"": 0.0, ""OTAN"": 0.0, ""IRAN"": 0.0, ""RUSIA"": 0.0, ""UCRANIA"": 0.0}","{""guerra"": 3, ""atentado"": 1, ""tregua"": 1, ""ataque"": 1, ""urge"": 1}",36,0
+2026-04-26,BBC World,0.0351,0.0492,"{""ISRAEL"": -0.8625, ""EEUU"": -0.25}","{""ceasefire"": 1}",4,0
+2026-04-26,The Guardian,0.0156,0.0492,"{""CHINA"": 0.8885, ""IRAN"": -0.9201, ""EEUU"": -0.4024}","{""urge"": 1}",9,0
+2026-04-26,NYT World,0.0802,0.0492,"{""EEUU"": 0.5423}",{},1,0
+2026-04-26,France24 ES,0.0442,0.0492,{},"{""ataque"": 1, ""terrorista"": 1}",1,0
+2026-04-26,Al Jazeera,0.0313,0.0492,"{""EEUU"": -0.6739, ""IRAN"": -0.8625}",{},4,0
